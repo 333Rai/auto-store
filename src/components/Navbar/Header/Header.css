@@ -1,0 +1,28 @@
+#header {
+   background-color: #fff;
+   padding: 5px 0;
+}
+.header {
+   display: flex;
+   align-items: center;
+   justify-content: space-between;
+}
+.header__logo img {
+   width: 80px;
+   cursor: pointer;
+}
+.header__nav {
+   width: 333px;
+   display: flex;
+   justify-content: space-between;
+   align-items: center;
+}
+.header__nav a {
+   color: #000;
+   font-size: 18px;
+   font-weight: 500;
+}
+.header__nav a:active {
+   color: red;
+}
+

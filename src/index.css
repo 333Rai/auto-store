@@ -1,0 +1,24 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+a {
+  text-decoration: none;
+}
+input {
+  border: none;
+}
+button {
+  border: none;
+  cursor: pointer;
+}
+body {
+  background-color: #95b9c9;
+  font-family: 'Montserrat', sans-serif;
+}
+
+.container {
+  width: 77%;
+  margin: 0 auto;
+}
